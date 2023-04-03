@@ -1,0 +1,20 @@
+{"frames": {
+
+"CatboyHead.png":
+{
+	"frame": {"x":2,"y":2,"w":64,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":70},
+	"sourceSize": {"w":64,"h":70}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "CatboyHead.png",
+	"format": "RGBA8888",
+	"size": {"w":68,"h":74},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:e45c0d059613aa2ee0cc47c88a7de619:d0eb583962e47a0828abe12913919e64:dd4b9395cdeab5533fec613d09128782$"
+}
+}

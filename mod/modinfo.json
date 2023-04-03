@@ -1,0 +1,12 @@
+{
+	"id": "cbartificer.fix",
+	"name": "SpriteReplacementCo",
+	"version": "1.0.0",
+	"hide_version": false,
+	"authors": "Moon",
+	"description": "Just replacing some sprites, you know the bussiness",
+	"requirements": [],
+	"requirements_names": [],
+	"checksum_override_version": false,
+	"Tags": ["Cosmetics"]
+}
