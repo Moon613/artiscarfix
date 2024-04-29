@@ -1,10 +1,10 @@
 {
 	"id": "cbartificer.fix",
-	"name": "SpriteReplacementCo",
-	"version": "1.0.0",
+	"name": "Artificer Scar Fix",
+	"version": "1.0.1",
 	"hide_version": false,
 	"authors": "Moon",
-	"description": "Just replacing some sprites, you know the bussiness",
+	"description": "Fixes Artificer's scar, it gets weird sometimes...",
 	"requirements": [],
 	"requirements_names": [],
 	"checksum_override_version": false,
